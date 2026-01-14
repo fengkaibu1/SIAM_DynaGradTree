@@ -1,0 +1,19 @@
+# Core Dependencies for DynaGradTree Implementation
+
+# Deep Learning Framework
+tensorflow>=2.10.0,<2.18.0
+tensorflow-addons>=0.19.0
+
+# Scientific Computing
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Data Processing
+category-encoders>=2.5.0
+
+# Optional: For better reproducibility
+scipy>=1.9.0
